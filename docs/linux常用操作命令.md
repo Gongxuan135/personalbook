@@ -79,7 +79,7 @@ lsblk -d -o name,rota           ROTA 1 for hard disks, 0 for ssd
 du -h --max-depth=1             列出当前目录所有文件夹的大小
 ```
 
-## Network
+11111111111111111111111
 
 ```
     ethtool xgbe0                   查看网卡信息，看网卡是百兆还是千兆，xgbe0是网卡的名字，可以通过ifconfig获取到
